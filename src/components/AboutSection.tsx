@@ -83,7 +83,7 @@ export const AboutSection: React.FC = () => {
             {/* Visual Photography Card */}
             <div className="relative rounded-2xl overflow-hidden border border-zinc-800 shadow-2xl group">
               <img
-                src="/src/assets/images/signature_batchoy_bowl_1793705096368.jpg"
+                src="/images/signature_batchoy_bowl_1793705096368.jpg"
                 alt="Original La Paz Batchoy at JR's Restaurant Al Ain"
                 className="w-full h-72 sm:h-80 object-cover object-center group-hover:scale-105 transition-transform duration-500"
                 referrerPolicy="no-referrer"

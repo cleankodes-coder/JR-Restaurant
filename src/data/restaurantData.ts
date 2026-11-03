@@ -84,7 +84,7 @@ export const SIGNATURE_DISHES = [
     badge: "Must-Order Dish",
     description: "Chicken or beef special noodle soup topped with meat strips, chicken chicharon, siomai, shanghai and egg, served with fluffy puto cheese.",
     details: "Originating from La Paz, Iloilo, our signature broth is simmered for hours using certified Saladmaster cookware to lock in rich bone marrow flavor with less oil.",
-    image: "/src/assets/images/signature_batchoy_bowl_1793705096368.jpg",
+    image: "/images/signature_batchoy_bowl_1793705096368.jpg",
     isHero: true
   },
   {
@@ -93,7 +93,7 @@ export const SIGNATURE_DISHES = [
     price: 59,
     tag: "CHEF SPECIAL",
     description: "Special beef shank soup with tender marrow bone, pechay cabbage, sweet corn cob, and rich clear aromatic beef broth.",
-    image: "/src/assets/images/dish_bulalo_soup_1793705120572.jpg"
+    image: "/images/dish_bulalo_soup_1793705120572.jpg"
   },
   {
     id: "sig-beef-sisig",
@@ -101,7 +101,7 @@ export const SIGNATURE_DISHES = [
     price: 45,
     tag: "SIZZLING FAVORITE",
     description: "Diced beef, onions, and bell pepper, topped with a fresh egg sizzling on a hot cast iron plate with calamansi citrus.",
-    image: "/src/assets/images/signature_sizzling_sisig_1793705098002.jpg"
+    image: "/images/signature_sizzling_sisig_1793705098002.jpg"
   },
   {
     id: "sig-chicken-sisig",
@@ -109,7 +109,7 @@ export const SIGNATURE_DISHES = [
     price: 39,
     tag: "POPULAR SIZZLE",
     description: "Diced chicken version of the sizzling favourite with caramelized onions, fresh chili, and topped with rich fresh egg.",
-    image: "/src/assets/images/signature_sizzling_sisig_1793705098002.jpg"
+    image: "/images/signature_sizzling_sisig_1793705098002.jpg"
   },
   {
     id: "sig-kare-kare",
@@ -117,7 +117,7 @@ export const SIGNATURE_DISHES = [
     price: 43,
     tag: "HERITAGE RECIPE",
     description: "Tender beef stewed in savory peanut sauce with string beans, eggplant, and bok choy, served with sautéed shrimp paste on the side.",
-    image: "/src/assets/images/dish_kare_kare_1793705120899.jpg"
+    image: "/images/dish_kare_kare_1793705120899.jpg"
   },
   {
     id: "sig-seafood-platter",
@@ -126,7 +126,7 @@ export const SIGNATURE_DISHES = [
     originalPrice: 189,
     tag: "GOOD FOR 4–5 PERSONS",
     description: "Mussels, blue crabs, shrimps, crab balls, and sweet corn cob in Cajun garlic butter sauce with unlimited rice.",
-    image: "/src/assets/images/signature_seafood_platter_1793705098173.jpg"
+    image: "/images/signature_seafood_platter_1793705098173.jpg"
   },
   {
     id: "sig-goto",
@@ -134,7 +134,7 @@ export const SIGNATURE_DISHES = [
     price: 35,
     tag: "COMFORT CLASSIC",
     description: "Glutinous rice, beef tripe and ginger, topped with chicken shanghai, siomai and boiled egg, served with puto cheese.",
-    image: "/src/assets/images/hero_filipino_feast_1793705095269.jpg"
+    image: "/images/hero_filipino_feast_1793705095269.jpg"
   },
   {
     id: "sig-halo-halo",
@@ -143,7 +143,7 @@ export const SIGNATURE_DISHES = [
     tag: "MUST-TRY DESSERT",
     badge: "Crowd Favorite",
     description: "Iconic Filipino shaved-ice dessert layered with sweet beans, ube halaya, leche flan, nata de coco, and evaporated milk.",
-    image: "/src/assets/images/dish_halo_halo_1793705122583.jpg"
+    image: "/images/dish_halo_halo_1793705122583.jpg"
   }
 ];
 
@@ -202,7 +202,7 @@ export const FULL_MENU_ITEMS: MenuItem[] = [
     description: 'Special beef shank soup, a house Chef Special with marrow bone & garden greens',
     tag: 'Chef Special',
     isPopular: true,
-    image: '/src/assets/images/dish_bulalo_soup_1793705120572.jpg'
+    image: '/images/dish_bulalo_soup_1793705120572.jpg'
   },
   {
     id: 'spec-2',
@@ -227,7 +227,7 @@ export const FULL_MENU_ITEMS: MenuItem[] = [
     price: 43,
     description: 'Beef stewed in savory peanut sauce with vegetables, sautéed shrimp paste on the side',
     tag: 'House Special',
-    image: '/src/assets/images/dish_kare_kare_1793705120899.jpg'
+    image: '/images/dish_kare_kare_1793705120899.jpg'
   },
   {
     id: 'spec-5',
@@ -263,7 +263,7 @@ export const FULL_MENU_ITEMS: MenuItem[] = [
     description: 'Diced beef, onions, bell pepper, topped with fresh egg on a sizzling plate',
     tag: 'Sizzling Favorite',
     isPopular: true,
-    image: '/src/assets/images/signature_sizzling_sisig_1793705098002.jpg'
+    image: '/images/signature_sizzling_sisig_1793705098002.jpg'
   },
   {
     id: 'sizz-3',
@@ -299,7 +299,7 @@ export const FULL_MENU_ITEMS: MenuItem[] = [
     description: 'Authentic street-style grilled chicken intestines glazed to perfection. Served with JR special vinegar',
     tag: 'Popular on Google',
     isPopular: true,
-    image: '/src/assets/images/dish_street_bbq_1793705137151.jpg'
+    image: '/images/dish_street_bbq_1793705137151.jpg'
   },
   {
     id: 'street-4',
@@ -335,7 +335,7 @@ export const FULL_MENU_ITEMS: MenuItem[] = [
     description: 'Noodle soup topped with meat strips, chicken chicharon, siomai, shanghai and egg, with puto cheese',
     tag: 'House Hero',
     isPopular: true,
-    image: '/src/assets/images/signature_batchoy_bowl_1793705096368.jpg'
+    image: '/images/signature_batchoy_bowl_1793705096368.jpg'
   },
   {
     id: 'side-2',
@@ -381,7 +381,7 @@ export const FULL_MENU_ITEMS: MenuItem[] = [
     description: 'Was AED 189! Mussels, blue crabs, tiger shrimps, crab balls, sweet corn cob in Cajun butter with unlimited rice',
     tag: 'Promo AED 149 (was AED 189)',
     isPopular: true,
-    image: '/src/assets/images/signature_seafood_platter_1793705098173.jpg'
+    image: '/images/signature_seafood_platter_1793705098173.jpg'
   },
   {
     id: 'sea-2',
@@ -583,56 +583,56 @@ export const GALLERY_ITEMS = [
     id: 'gal-1',
     title: 'Special La Paz Batchoy with Puto Cheese',
     category: 'Signature',
-    image: '/src/assets/images/signature_batchoy_bowl_1793705096368.jpg',
+    image: '/images/signature_batchoy_bowl_1793705096368.jpg',
     caption: 'Our crown jewel: homemade noodles, rich bone marrow broth, chicharon and steamed puto cheese'
   },
   {
     id: 'gal-2',
     title: 'Sizzling Beef Sisig',
     category: 'Sizzling',
-    image: '/src/assets/images/signature_sizzling_sisig_1793705098002.jpg',
+    image: '/images/signature_sizzling_sisig_1793705098002.jpg',
     caption: 'Fresh from the sizzling plate, topped with golden egg and calamansi'
   },
   {
     id: 'gal-3',
     title: 'Mixed Seafood Boil Platter',
     category: 'Seafood',
-    image: '/src/assets/images/signature_seafood_platter_1793705098173.jpg',
+    image: '/images/signature_seafood_platter_1793705098173.jpg',
     caption: 'Blue crabs, giant prawns, mussels, and sweet corn in Cajun garlic butter'
   },
   {
     id: 'gal-4',
     title: 'Hearty Bulalo Beef Shank Soup',
     category: 'Special',
-    image: '/src/assets/images/dish_bulalo_soup_1793705120572.jpg',
+    image: '/images/dish_bulalo_soup_1793705120572.jpg',
     caption: 'Simmered slow for rich marrow broth and fall-apart tender beef'
   },
   {
     id: 'gal-5',
     title: 'Traditional Beef Kare-Kare',
     category: 'Heritage',
-    image: '/src/assets/images/dish_kare_kare_1793705120899.jpg',
+    image: '/images/dish_kare_kare_1793705120899.jpg',
     caption: 'Rich peanut sauce with tender beef, eggplant, green beans and sautéed bagoong'
   },
   {
     id: 'gal-6',
     title: 'Filipino Street Food BBQ & Isaw',
     category: 'Street Food',
-    image: '/src/assets/images/dish_street_bbq_1793705137151.jpg',
+    image: '/images/dish_street_bbq_1793705137151.jpg',
     caption: 'Charcoal grilled skewers with JR\'s signature chili-garlic vinegar'
   },
   {
     id: 'gal-7',
     title: 'Grand 400 sqm Events Venue',
     category: 'Venue',
-    image: '/src/assets/images/events_venue_hall_1793705098431.jpg',
+    image: '/images/events_venue_hall_1793705098431.jpg',
     caption: 'A 400 sqm dedicated event hall in Central District for birthdays, weddings, & gatherings'
   },
   {
     id: 'gal-8',
     title: 'Iconic Halo-Halo Special',
     category: 'Dessert',
-    image: '/src/assets/images/dish_halo_halo_1793705122583.jpg',
+    image: '/images/dish_halo_halo_1793705122583.jpg',
     caption: 'Layers of sweet ingredients topped with ube ice cream and golden leche flan'
   }
 ];

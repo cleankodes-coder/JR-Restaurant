@@ -58,7 +58,7 @@ export const VenueSection: React.FC = () => {
             {/* Image Card */}
             <div className="relative rounded-3xl overflow-hidden border border-zinc-800 shadow-2xl group mb-6">
               <img
-                src="/src/assets/images/events_venue_hall_1793705098431.jpg"
+                src="/images/events_venue_hall_1793705098431.jpg"
                 alt="JR's Restaurant 400 sqm Events Venue in Central District Al Ain"
                 className="w-full h-72 sm:h-96 object-cover object-center group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"

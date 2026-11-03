@@ -12,7 +12,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenOrderModal }) => {
       {/* Background Photography with Rich Warm Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_filipino_feast_1793705095269.jpg"
+          src="/images/hero_filipino_feast_1793705095269.jpg"
           alt="Lavish Filipino feast at JR's Restaurant Al Ain featuring La Paz Batchoy and sizzling sisig"
           className="w-full h-full object-cover object-center scale-105 animate-in fade-in duration-1000"
           referrerPolicy="no-referrer"

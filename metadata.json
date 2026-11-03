@@ -1,0 +1,6 @@
+{
+  "name": "JR's Restaurant, Al Ain — House of Special La Paz Batchoy",
+  "description": "Authentic Filipino restaurant in Al Ain, UAE famous for Special La Paz Batchoy, sizzling plates, barkada sharing meals, multi-nation comfort food, and a 400 sqm events venue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
